@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my git repository
 <br>
-Aouthor - snehal sawant
+Aouthor - snehal (apna college
+)
